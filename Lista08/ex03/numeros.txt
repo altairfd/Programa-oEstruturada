@@ -1,0 +1,6 @@
+4 -> positivo par
+3 -> positivo impar
+2 -> positivo par
+1 -> positivo impar
+22 -> positivo par
+33 -> positivo impar
